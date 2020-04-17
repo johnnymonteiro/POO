@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Coordenadas
+comment1.params=
+comment1.target=Coordenadas()
+comment1.text=\n\ CONSTRUTORES\n
+comment2.params=x\ y
+comment2.target=Coordenadas(double,\ double)
+comment3.params=c
+comment3.target=Coordenadas(Coordenadas)
+comment4.params=
+comment4.target=double\ getX()
+comment4.text=\n\ GETTERS\n
+comment5.params=
+comment5.target=double\ getY()
+comment6.params=x
+comment6.target=void\ setX(double)
+comment6.text=\n\ SETTERS\n
+comment7.params=y
+comment7.target=void\ setY(double)
+comment8.params=
+comment8.target=Coordenadas\ clone()
+comment8.text=\n\ M\u00C9TODOS\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

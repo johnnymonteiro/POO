@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Eletrico
+comment1.params=
+comment1.target=Eletrico()
+comment2.params=tipo\ marca\ matricula\ nif\ velocidade\ precoBase\ consumo\ autonomia\ coordX\ coordY
+comment2.target=Eletrico(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ double,\ int,\ double,\ double)
+comment3.params=e
+comment3.target=Eletrico(Eletrico)
+comment4.params=
+comment4.target=int\ getBateria()
+comment5.params=cap
+comment5.target=void\ setBateria(int)
+comment6.params=
+comment6.target=Eletrico\ clone()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=void\ abastecer()
+numComments=9

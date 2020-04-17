@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Excepcoes
+comment0.text=\n\ Write\ a\ description\ of\ class\ Exceptions\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Excepcoes()
+comment2.params=s
+comment2.target=Excepcoes(java.lang.String)
+numComments=3

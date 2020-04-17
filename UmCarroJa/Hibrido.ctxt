@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Hibrido
+comment1.params=
+comment1.target=Hibrido()
+comment1.text=\n\ COnstrutor\ para\ objetos\ da\ classe\ Hibrido\n
+comment10.params=
+comment10.target=void\ abastecerCarregar()
+comment2.params=tipo\ marca\ matricula\ nif\ velocidade\ precoBase\ consumo\ autonomia\ coordX\ coordY
+comment2.target=Hibrido(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ double,\ int,\ double,\ double)
+comment3.params=h
+comment3.target=Hibrido(Hibrido)
+comment4.params=
+comment4.target=int\ getBateria()
+comment5.params=
+comment5.target=int\ getDeposito()
+comment6.params=bat
+comment6.target=void\ setBateria(int)
+comment7.params=dep
+comment7.target=void\ setDeposito(int)
+comment8.params=
+comment8.target=Hibrido\ clone()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=11
